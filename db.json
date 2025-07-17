@@ -1,0 +1,60 @@
+{
+  "trancaction-1": [
+    {
+      "id": "user_id",
+      "description": "rice_market",
+      "amount": "40000",
+      "type": "income",
+      "category": "rice",
+      "date": "15-06-2025"
+    },
+    {
+      "id": "user_id",
+      "description": "Fruit_market",
+      "amount": "4000",
+      "type": "expance",
+      "category": "food",
+      "date": "14-06-2025"
+    },
+    {
+      "id": "user_id",
+      "description": "grocary",
+      "amount": "5006",
+      "type": "income",
+      "category": "food",
+      "date": "14-06-2025"
+    },
+    {
+      "id": "user_id",
+      "description": "rice_market",
+      "amount": "40000",
+      "type": "income",
+      "category": "food",
+      "date": "15-06-2025"
+    },
+    {
+      "id": "user_id_praveen",
+      "description": "rice_market",
+      "amount": "40000",
+      "type": "income",
+      "category": "food",
+      "date": "15-06-2025"
+    },
+    {
+      "id": "user_id_praveen",
+      "description": "rice_market",
+      "amount": "40000",
+      "type": "expance",
+      "category": "food",
+      "date": "15-06-2025"
+    },
+    {
+      "id": "user_id",
+      "description": "vegitable",
+      "amount": "4000",
+      "type": "expance",
+      "category": "food",
+      "date": "14-06-2025"
+    }
+  ]
+}
